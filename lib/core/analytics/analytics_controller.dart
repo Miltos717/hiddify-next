@@ -10,7 +10,7 @@ import 'package:riverpod_annotation/riverpod_annotation.dart';
 import 'package:sentry_flutter/sentry_flutter.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-part 'analytics_controller.g.dart';
+part 'analytics_controller.g.dart';c
 
 const String enableAnalyticsPrefKey = "enable_analytics";
 
