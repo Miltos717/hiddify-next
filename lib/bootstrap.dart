@@ -27,7 +27,7 @@ import 'package:hiddify/singbox/service/singbox_service_provider.dart';
 import 'package:hiddify/utils/utils.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:sentry_flutter/sentry_flutter.dart';
-
+// eweweww
 Future<void> lazyBootstrap(
   WidgetsBinding widgetsBinding,
   Environment env,
